@@ -1,0 +1,18 @@
+body{
+  margin: 0;
+}
+
+.body{
+  background-image: url("record.png"); // background repeat default works well
+}
+
+.header{
+  background-color: midnightblue;
+  color: lightsteelblue;
+  text-align: center;
+}
+
+.main{
+  background-color: LightGray;
+  padding: 1em;
+}
